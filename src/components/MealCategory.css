@@ -7,7 +7,7 @@
  border-color: yellow;
  background-image: url("goat.svg");
  background-position: center;
- background-size: 89%;
+ background-size: 92%;
 
 }
 .category-btn :nth-child(4) {
@@ -18,8 +18,8 @@
   height: 45px;
   border-color: yellow;
   background-image: url("dessert.png");
-  background-position: bottom 40px left 1px;
-  background-size: 96%;
+  background-position: bottom 40px ;
+  background-size: 100%;
  
  }
 
@@ -30,9 +30,10 @@
   width: 45px;
   height: 45px;
   border-color: yellow;
+  border: 2px solid yellow;
   background-image: url("breakfast.png");
-  background-position: bottom 95px left 193px;
-  background-size: 120%;
+  background-position: bottom 95px;
+  background-size: 110%;
  
  }
 
@@ -61,8 +62,8 @@
   height: 45px;
   border-color: yellow;
   background-image: url("beef.png");
-  background-position: bottom 20px;
-  background-size: 110%;
+  background-position: bottom 50px;
+  background-size: 100%;
  
  }
 

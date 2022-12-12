@@ -7,7 +7,7 @@
   border-color: yellow;
   background-image: url("cocoa.png");
   background-position: center top 1px;
-  background-size: 102%;
+  background-size: 100%;
  
  }
  .category-btn2 :nth-child(4) {
@@ -21,7 +21,7 @@
  
    background-position: center top 1px;
    
-   background-size: 125%;
+   background-size: 115%;
   
   }
  
