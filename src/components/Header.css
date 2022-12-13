@@ -74,3 +74,53 @@
   width: 71px;
   height: 20px;
 }
+
+
+
+@media only screen and (max-width: 540px) {
+
+  .title{
+    margin-right: 22vw;
+  
+   
+  }
+
+  .searchBtn {
+  margin-right: 8vw;
+    
+    
+  }
+  .profileBtn{
+    margin-right: 9vw;
+   
+  }
+
+}
+
+@media only screen and (max-width: 375px) {
+
+  .title{
+    margin-right: 15vw;
+  
+   
+  }
+}
+
+
+@media only screen and (max-width: 912px) and (min-width: 540px){
+  .title{
+    margin-right: 57vw;
+  
+   
+  }
+
+  .searchBtn {
+    margin-right: 3vw;
+      
+      
+    }
+    .profileBtn{
+      margin-right: 3vw;
+     
+    }
+}
