@@ -1,13 +1,122 @@
-.category-btn:nth-child(1) {
-  /* background-image: url('goat.svg');  */
-  background-color: transparent;
-  display: flex;
-  flex-direction: row;
-  border: 1.81121px solid;
-  border-radius: 50px;
-  color: #FCC436;
-  width: 45.28px;
-  height: 45.28px;
+.category-btn :nth-child(5) {
+
+
+ border-radius: 100%;
+ width: 45px;
+ height: 45px;
+ border-color: yellow;
+ background-image: url("goat.svg");
+ background-position: center;
+ background-size: 92%;
 
 }
+.category-btn :nth-child(4) {
 
+
+  border-radius: 100%;
+  width: 45px;
+  height: 45px;
+  border-color: yellow;
+  background-image: url("dessert.png");
+  background-position: bottom 40px ;
+  background-size: 100%;
+ 
+ }
+
+ .category-btn :nth-child(2) {
+
+
+  border-radius: 100%;
+  width: 45px;
+  height: 45px;
+  border-color: yellow;
+  border: 2px solid yellow;
+  background-image: url("breakfast.png");
+  background-position: bottom 95px;
+  background-size: 110%;
+ 
+ }
+
+
+
+
+
+.category-btn :nth-child(3) {
+
+
+  border-radius: 100%;
+  width: 45px;
+  height: 45px;
+  border-color: yellow;
+  background-image: url("chicken.png");
+  background-position: center;
+  background-size: 90%;
+ 
+ }
+
+ .category-btn :nth-child(1) {
+
+
+  border-radius: 100%;
+  width: 45px;
+  height: 45px;
+  border-color: yellow;
+  background-image: url("beef.png");
+  background-position: bottom 50px;
+  background-size: 100%;
+ 
+ }
+
+.allBtn {
+
+display: flex;
+flex-direction: column;
+align-items: center;
+
+
+  height: 15vh;
+}
+ .allBtn button {
+
+  border-radius: 100%;
+  width: 47px;
+  height: 47px;
+  background-image: url("All.png");
+  border: yellow;
+  background-size: 98%;
+  background-position: bottom 20px;
+ }
+ .allBtn img{
+display: none;
+ }
+
+.names {
+ display: none;
+  
+  }
+
+  .theNames {
+    display: flex;
+    flex-direction: row;
+    gap: 5%;
+    margin-left: 10px;
+justify-content: center;
+    
+  }
+
+  .category-btn{
+    display: flex;
+    gap: 5%;
+    justify-content: center;
+  }
+
+
+
+
+  .btnWithNames{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    border: 1px solid black;
+ 
+  }
