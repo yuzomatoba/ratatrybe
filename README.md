@@ -4,9 +4,29 @@ The Ratatrybe Recipe App Project (group project) was focused on creating food an
 The  browser Local Storage was used to save login info, favorite items, started recipes and completed recipes. 
 
 <div align="center">
-  <img src="/home/yuzo/Imagens/Capturas de tela/Captura de tela de 2023-04-28 18-52-31.png" width="250"/>
+
+<h1>Features:</h1>
+
+  <img src="src/loginScream.png" width="45%" height="45%"/>
+  
+  <h2>login page</h2>
 </div>
 
+<div align="center">
+
+  <img src="src/mainScream.png" width="50%" height="50%"/>
+  
+  <h2>category icons</h2>
+</div>
+
+<div align="center">
+
+  <img src="src/foodScream.png" width="50%" height="50%"/>
+  
+  <h2>food recipe</h2>
+</div>
+ 
+  
 ## 🛠️ Developed project using:
 
 It was created using the ```React``` library:
