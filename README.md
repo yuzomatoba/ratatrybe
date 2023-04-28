@@ -9,6 +9,5 @@ It was created using the ```React``` library:
 
 * React
 * Redux Toolkit
-* Tailwind CSS
 * Local Storage
 
