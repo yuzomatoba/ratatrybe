@@ -8,6 +8,5 @@ The  browser Local Storage was used to save login info, favorite items, started 
 It was created using the ```React``` library:
 
 * React
-* Redux Toolkit
 * Local Storage
 
