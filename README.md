@@ -12,9 +12,9 @@ It was created using the ```React``` library:
 
 ## 🖇️ Partners:
 
-* Hebertt Nascimento;
-* Ryan Alves;
-* Thiago Durante.
+* Mr. Hebertt Nascimento;
+* Mr. Ryan Alves;
+* Mr. Thiago Durante.
 
 ## :man_technologist: Built by Yuzo Matoba
 [Yuzo Matoba](https://www.linkedin.com/in/fabio-yuzo/)
