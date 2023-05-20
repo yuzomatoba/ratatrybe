@@ -7,21 +7,21 @@ The  browser Local Storage was used to save login info, favorite items, started 
 
 <h1>Features:</h1>
 
-  <img src="src/loginScreen.png" width="45%" height="45%"/>
+  <img src="loginScreen.png" width="45%" height="45%"/>
   
   <h2>login page</h2>
 </div>
 
 <div align="center">
 
-  <img src="src/mainScreen.png" width="50%" height="50%"/>
+  <img src="mainScreen.png" width="50%" height="50%"/>
   
   <h2>category icons</h2>
 </div>
 
 <div align="center">
 
-  <img src="src/foodScream.png.png" width="50%" height="50%"/>
+  <img src="foodScream.png.png" width="50%" height="50%"/>
   
   <h2>food recipe</h2>
 </div>
