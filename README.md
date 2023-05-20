@@ -21,7 +21,7 @@ The  browser Local Storage was used to save login info, favorite items, started 
 
 <div align="center">
 
-  <img src="src/foodScreen.png" width="50%" height="50%"/>
+  <img src="src/foodScream.png.png" width="50%" height="50%"/>
   
   <h2>food recipe</h2>
 </div>
