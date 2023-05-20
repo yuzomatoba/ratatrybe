@@ -34,7 +34,7 @@ It was created using the ```React``` library:
 * React
 * Local Storage
 
-## 🖇️ Partners:
+## 🖇️ Project Members:
 
 * Mr. Hebertt Nascimento;
 * Mr. Ryan Alves;
